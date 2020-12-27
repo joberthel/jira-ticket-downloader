@@ -8,7 +8,7 @@ Will create multiple `issues.{n}-{n+1}json` files inside the `output` directory 
 $ npm i
 ```
 
-2. Create an .env file with the credentials in the root directory
+2. Create an `.env` file with the credentials in the root directory
 
 ```
 JIRA_PROTOCOL=https
